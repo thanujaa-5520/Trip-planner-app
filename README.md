@@ -1,2 +1,4 @@
-# Trip-planner-app
-A web-based travel planner with destination selection, preferences, and itinerary generation.
+# Welcome to your Lovable project
+
+TODO: Document your project here
+# Voyager
